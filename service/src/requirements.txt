@@ -1,0 +1,9 @@
+flask
+flask-restful
+flask-HTTPAuth
+itsdangerous
+psycopg2
+sqlalchemy
+Flask-SQLAlchemy
+uwsgi
+flask-cors
